@@ -29,4 +29,4 @@ public class MesPetit {
 	}
 
 }
-/*Aquest es el projecte 1*/
+/*Aquest es el projecte 1!!*/
